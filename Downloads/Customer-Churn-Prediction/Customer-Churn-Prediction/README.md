@@ -46,7 +46,6 @@ This platform goes beyond a basic churn predictor. It includes:
 
 ## 🖥️ Screenshots
 
-> _Add screenshots after running the app_
 
 | Dashboard | Prediction | Analytics |
 |---|---|---|
@@ -216,23 +215,7 @@ Customer-Churn-Prediction/
 - [ ] PostgreSQL backend for persistent prediction logging
 - [ ] Docker containerization for reproducible deployment
 
----
 
-## 🧑‍💻 Resume / LinkedIn Description
-
-**Customer Churn Prediction Intelligence Platform**  
-*Python · Streamlit · XGBoost · Scikit-learn · Plotly · Pandas*
-
-Engineered an enterprise-grade AI/ML SaaS platform for customer churn prediction used in simulated telecom analytics. Implemented a 4-model ML pipeline (XGBoost, Random Forest, Logistic Regression, Decision Tree) with automated best-model selection via stratified cross-validation (ROC-AUC ~87%). Built a full-stack Streamlit application with real-time inference, bulk CSV analysis for thousands of customers, interactive Plotly dashboards, and a business insights engine delivering actionable retention strategies. Designed a premium glassmorphism dark UI with enterprise typography, achieving 0 Streamlit default styling.
-
-**Key Outcomes:**
-- Achieved ~87% ROC-AUC on held-out test set with realistic ~26% churn class imbalance
-- Designed modular preprocessing pipeline handling encoding, scaling, and feature engineering without data leakage
-- Built 7-page multi-page Streamlit application with 11 custom Plotly visualizations
-
----
-
-## 🎤 Interview Explanation
 
 **"Walk me through your churn prediction project"**
 
@@ -247,5 +230,4 @@ MIT License — free to use, modify and distribute.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ · Streamlit + XGBoost + Scikit-learn · ChurnIQ v2.4.1</sub>
-</div>
+  <sub>Built with ❤️ · Streamlit + XGBoost + Scikit-learn · ChurnIQ v2
